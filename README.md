@@ -1,2 +1,2 @@
 # training-spring-boot
-Project created to the Spring Tech session what I will the trainer.
+Project created to practice the Spring Tech stack.
